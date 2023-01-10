@@ -1,3 +1,5 @@
 1. git init = to initialize a repo 
 2. git add "file name" = adding or staging new or modified files
 3. git commit = commit changes 
+4. git branch "name" = Create a new branch 
+5. git checkout
